@@ -104,8 +104,8 @@ print('C:/', user, '/docs/folder/', new_file, '.txt', sep = '')
 a = input('Введите первое слово: ')
 b = input('Введите второе слово: ')
 print(a, b)
-t =''
+t ='value'
 t = a
 a = b
 b = t
-print(a, b)
+print ( a, b )
