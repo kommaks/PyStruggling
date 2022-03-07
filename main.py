@@ -99,7 +99,7 @@ print('Введите имя файла:', end = ' ')
 #new_file = "Start1"
 #print(new_file)
 new_file = input()
-print('C:/',user,'/docs/folder/',new_file,'.txt',sep = '')
+print('C:/', user, '/docs/folder/', new_file, '.txt', sep = '')
 #8
 a = input('Введите первое слово: ')
 b = input('Введите второе слово: ')
